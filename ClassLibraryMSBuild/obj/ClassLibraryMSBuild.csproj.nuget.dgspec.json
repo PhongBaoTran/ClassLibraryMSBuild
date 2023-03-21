@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
+        "projectName": "ClassLibraryMSBuild",
+        "projectPath": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
+        "packagesPath": "C:\\Users\\Bao_Tran\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bao_Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Nuget Source": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Google.Ads.GoogleAds": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "ILRepack.MSBuild.Task": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.13, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
