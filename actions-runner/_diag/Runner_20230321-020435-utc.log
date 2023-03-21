@@ -1,0 +1,236 @@
+[2023-03-21 02:04:35Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'Credentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'Runner': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner'
+[2023-03-21 02:04:35Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-03-21 02:04:35Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-03-21 02:04:35Z INFO Listener] Version: 2.303.0
+[2023-03-21 02:04:35Z INFO Listener] Commit: e676c7871817c1b484299cd93fabdf4b95e70741
+[2023-03-21 02:04:35Z INFO Listener] Culture: en-SG
+[2023-03-21 02:04:35Z INFO Listener] UI Culture: en-US
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO Listener] Validating directory permissions for: 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO CommandLineParser] Parse
+[2023-03-21 02:04:35Z INFO CommandLineParser] Parsing 5 args
+[2023-03-21 02:04:35Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:35Z INFO CommandLineParser] HasArgs: False
+[2023-03-21 02:04:35Z INFO CommandLineParser] Adding Command: configure
+[2023-03-21 02:04:35Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:35Z INFO CommandLineParser] HasArgs: True
+[2023-03-21 02:04:35Z INFO CommandLineParser] arg: url
+[2023-03-21 02:04:35Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:35Z INFO CommandLineParser] HasArgs: True
+[2023-03-21 02:04:35Z INFO CommandLineParser] Adding option 'url': 'https://github.com/PhongBaoTran/ClassLibraryMSBuild'
+[2023-03-21 02:04:35Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:35Z INFO CommandLineParser] HasArgs: True
+[2023-03-21 02:04:35Z INFO CommandLineParser] arg: token
+[2023-03-21 02:04:35Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:35Z INFO CommandLineParser] HasArgs: True
+[2023-03-21 02:04:35Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-03-21 02:04:35Z INFO Listener] Arguments parsed
+[2023-03-21 02:04:35Z INFO Runner] ExecuteCommand
+[2023-03-21 02:04:35Z INFO ConfigurationStore] currentAssemblyLocation: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin\Runner.Listener.dll
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] binPath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] RootFolder: C:\Projects\Test\ClassLibraryMSBuild\actions-runner
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'Runner': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] ConfigFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'Credentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] CredFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_migrated'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] MigratedCredFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_migrated
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:35Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:35Z INFO HostContext] Well known config file 'Service': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.service'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.service
+[2023-03-21 02:04:35Z INFO CommandSettings] Flag 'help': 'False'
+[2023-03-21 02:04:35Z INFO CommandSettings] Flag 'version': 'False'
+[2023-03-21 02:04:35Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-03-21 02:04:35Z INFO CommandSettings] Flag 'check': 'False'
+[2023-03-21 02:04:35Z INFO CommandSettings] Command 'configure': 'True'
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE: |                       
+[2023-03-21 02:04:35Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE:                         |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-03-21 02:04:35Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-03-21 02:04:35Z INFO ConfigurationManager] ConfigureAsync
+[2023-03-21 02:04:35Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-03-21 02:04:35Z INFO ConfigurationStore] IsConfigured()
+[2023-03-21 02:04:35Z INFO ConfigurationStore] IsConfigured: False
+[2023-03-21 02:04:35Z INFO ConfigurationManager] Is configured: False
+[2023-03-21 02:04:35Z INFO CommandSettings] Arg 'url': 'https://github.com/PhongBaoTran/ClassLibraryMSBuild'
+[2023-03-21 02:04:35Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-03-21 02:04:35Z INFO CommandSettings] Arg 'token': '***'
+[2023-03-21 02:04:35Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-03-21 02:04:36Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (CA72:514C:117351C:121B0F2:641910B3)
+[2023-03-21 02:04:36Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-03-21 02:04:36Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:36Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-03-21 02:04:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:36Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:36Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:37Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:37Z INFO ConfigurationManager] Test Connection complete.
+[2023-03-21 02:04:37Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:37Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:37Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams'
+[2023-03-21 02:04:37Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-03-21 02:04:37Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams
+[2023-03-21 02:04:38Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-03-21 02:04:38Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:04:38Z INFO PromptManager] ReadValue
+[2023-03-21 02:04:38Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-03-21 02:04:38Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-03-21 02:04:38Z INFO Terminal] READ LINE
+[2023-03-21 02:04:42Z INFO Terminal] Read value: ''
+[2023-03-21 02:04:42Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-03-21 02:04:42Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:42Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-03-21 02:04:42Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-03-21 02:04:42Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-03-21 02:04:42Z INFO CommandSettings] Arg 'name': ''
+[2023-03-21 02:04:42Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:04:42Z INFO PromptManager] ReadValue
+[2023-03-21 02:04:42Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-03-21 02:04:42Z INFO Terminal] WRITE: [press Enter for DESKTOP-R30VF4A] 
+[2023-03-21 02:04:42Z INFO Terminal] READ LINE
+[2023-03-21 02:04:50Z INFO Terminal] Read value: 'MSBuild'
+[2023-03-21 02:04:50Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:50Z INFO CommandSettings] Arg 'labels': ''
+[2023-03-21 02:04:50Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:04:50Z INFO PromptManager] ReadValue
+[2023-03-21 02:04:50Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-03-21 02:04:50Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-03-21 02:04:50Z INFO Terminal] READ LINE
+[2023-03-21 02:04:54Z INFO Terminal] Read value: ''
+[2023-03-21 02:04:54Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:55Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-03-21 02:04:55Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-03-21 02:04:55Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-03-21 02:04:55Z INFO ConfigurationStore] Saving OAuth credential @ C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials
+[2023-03-21 02:04:55Z INFO ConfigurationStore] Credentials Saved.
+[2023-03-21 02:04:55Z INFO ConfigurationStore] HasCredentials()
+[2023-03-21 02:04:55Z INFO ConfigurationStore] stored True
+[2023-03-21 02:04:55Z INFO CredentialManager] GetCredentialProvider
+[2023-03-21 02:04:55Z INFO CredentialManager] Creating type OAuth
+[2023-03-21 02:04:55Z INFO CredentialManager] Creating credential type: OAuth
+[2023-03-21 02:04:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams
+[2023-03-21 02:04:55Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:55Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-03-21 02:04:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:55Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:55Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams
+[2023-03-21 02:04:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams
+[2023-03-21 02:04:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-03-21 02:04:58Z INFO CommandSettings] Arg 'work': ''
+[2023-03-21 02:04:58Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:04:58Z INFO PromptManager] ReadValue
+[2023-03-21 02:04:58Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-03-21 02:04:58Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-03-21 02:04:58Z INFO Terminal] READ LINE
+[2023-03-21 02:05:01Z INFO Terminal] Read value: ''
+[2023-03-21 02:05:01Z INFO PromptManager] Falling back to the default: '_work'
+[2023-03-21 02:05:01Z INFO ConfigurationStore] Saving runner settings.
+[2023-03-21 02:05:01Z INFO ConfigurationStore] Settings Saved.
+[2023-03-21 02:05:01Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:05:01Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:05:01Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2023-03-21 02:05:01Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:05:01Z INFO PromptManager] ReadValue
+[2023-03-21 02:05:01Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2023-03-21 02:05:01Z INFO Terminal] WRITE: [press Enter for N] 
+[2023-03-21 02:05:01Z INFO Terminal] READ LINE
+[2023-03-21 02:05:03Z INFO Terminal] Read value: 'y'
+[2023-03-21 02:05:03Z INFO ConfigurationManager] Configuring to run the agent as service
+[2023-03-21 02:05:03Z INFO CommandSettings] Arg 'windowslogonaccount': ''
+[2023-03-21 02:05:03Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:05:03Z INFO PromptManager] ReadValue
+[2023-03-21 02:05:03Z INFO Terminal] WRITE: User account to use for the service 
+[2023-03-21 02:05:03Z INFO Terminal] WRITE: [press Enter for NT AUTHORITY\NETWORK SERVICE] 
+[2023-03-21 02:05:03Z INFO Terminal] READ LINE
+[2023-03-21 02:05:26Z INFO Terminal] Read value: ''
+[2023-03-21 02:05:26Z INFO PromptManager] Falling back to the default: 'NT AUTHORITY\NETWORK SERVICE'
+[2023-03-21 02:05:26Z INFO WindowsServiceControlManager] LogonAccount after transforming: NT AUTHORITY\NETWORK SERVICE, user: NETWORK SERVICE, domain: NT AUTHORITY
+[2023-03-21 02:05:26Z INFO WindowsServiceControlManager] Service name 'actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild' display name 'GitHub Actions Runner (PhongBaoTran-ClassLibraryMSBuild.MSBuild)' will be used for service configuration.
+[2023-03-21 02:05:26Z INFO WindowsServiceControlManager] Verifying if the account has LogonAsService permission
+[2023-03-21 02:05:26Z INFO WindowsServiceControlManager] Account: NT AUTHORITY\NETWORK SERVICE already has Logon As Service Privilege.
+[2023-03-21 02:05:26Z INFO WindowsServiceControlManager] Create local group and grant folder permission to service logon account.
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:05:26Z INFO ConfigurationStore] Read setting file: 304 chars
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Work': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\_work'
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Calculated unique group name GITHUB_ActionsRunner_Gaf892
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Trying to create group GITHUB_ActionsRunner_Gaf892
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Local Group 'GITHUB_ActionsRunner_Gaf892' created
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Trying to add userName NT AUTHORITY\NETWORK SERVICE to the group GITHUB_ActionsRunner_Gaf892
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Account 'NT AUTHORITY\NETWORK SERVICE' is added to local group 'GITHUB_ActionsRunner_Gaf892'.
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Projects\Test\ClassLibraryMSBuild\actions-runner
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Projects\Test\ClassLibraryMSBuild\actions-runner\_work
+[2023-03-21 02:05:26Z INFO NativeWindowsServiceHelper] Local group 'GITHUB_ActionsRunner_Gaf892' already has full control to path 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\_work'.
+[2023-03-21 02:05:26Z INFO Terminal] WRITE LINE: Granting file permissions to 'NT AUTHORITY\NETWORK SERVICE'.
+[2023-03-21 02:05:26Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper] Starting process:
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   File name: '"C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin\RunnerService.exe"'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Arguments: 'init'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Working directory: ''
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-03-21 02:05:26Z INFO ProcessInvokerWrapper] Process started with process id 5464, waiting for process exit.
+[2023-03-21 02:05:28Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-03-21 02:05:28Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-03-21 02:05:28Z INFO ProcessInvokerWrapper] Finished process 5464 with exit code 0, and elapsed time 00:00:01.8894910.
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Service actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild successfully installed
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Service actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild successfully set recovery option
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Service actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild successfully set to delayed auto start
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Service actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild successfully configured
+[2023-03-21 02:05:28Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:05:28Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:05:28Z INFO HostContext] Well known config file 'Service': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.service'
+[2023-03-21 02:05:28Z INFO WindowsServiceControlManager] Configuration was successful, trying to start the service
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Waiting for service to start...
+[2023-03-21 02:05:28Z INFO Terminal] WRITE LINE: Service actions.runner.PhongBaoTran-ClassLibraryMSBuild.MSBuild started successfully
+[2023-03-21 02:05:28Z INFO Listener] Runner execution has finished with return code 0

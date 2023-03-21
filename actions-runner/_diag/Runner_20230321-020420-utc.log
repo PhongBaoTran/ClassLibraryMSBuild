@@ -1,0 +1,90 @@
+[2023-03-21 02:04:20Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'Credentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'Runner': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner'
+[2023-03-21 02:04:20Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-03-21 02:04:20Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-03-21 02:04:20Z INFO Listener] Version: 2.303.0
+[2023-03-21 02:04:20Z INFO Listener] Commit: e676c7871817c1b484299cd93fabdf4b95e70741
+[2023-03-21 02:04:20Z INFO Listener] Culture: en-SG
+[2023-03-21 02:04:20Z INFO Listener] UI Culture: en-US
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO Listener] Validating directory permissions for: 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO CommandLineParser] Parse
+[2023-03-21 02:04:20Z INFO CommandLineParser] Parsing 1 args
+[2023-03-21 02:04:20Z INFO CommandLineParser] parsing argument
+[2023-03-21 02:04:20Z INFO CommandLineParser] HasArgs: False
+[2023-03-21 02:04:20Z INFO CommandLineParser] Adding Command: remove
+[2023-03-21 02:04:20Z INFO Listener] Arguments parsed
+[2023-03-21 02:04:20Z INFO Runner] ExecuteCommand
+[2023-03-21 02:04:20Z INFO ConfigurationStore] currentAssemblyLocation: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin\Runner.Listener.dll
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] binPath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] RootFolder: C:\Projects\Test\ClassLibraryMSBuild\actions-runner
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'Runner': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] ConfigFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.runner
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'Credentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] CredFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_migrated'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] MigratedCredFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_migrated
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:20Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:20Z INFO HostContext] Well known config file 'Service': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.service'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.service
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'help': 'False'
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'version': 'False'
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'check': 'False'
+[2023-03-21 02:04:20Z INFO CommandSettings] Command 'configure': 'False'
+[2023-03-21 02:04:20Z INFO CommandSettings] Command 'remove': 'True'
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'local': 'False'
+[2023-03-21 02:04:20Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-03-21 02:04:20Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-03-21 02:04:20Z INFO ConfigurationStore] IsConfigured()
+[2023-03-21 02:04:20Z INFO ConfigurationStore] IsConfigured: True
+[2023-03-21 02:04:20Z INFO ConfigurationStore] HasCredentials()
+[2023-03-21 02:04:20Z INFO ConfigurationStore] stored True
+[2023-03-21 02:04:20Z INFO ConfigurationStore] Read setting file: 304 chars
+[2023-03-21 02:04:20Z INFO CommandSettings] Arg 'token': ''
+[2023-03-21 02:04:20Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-03-21 02:04:20Z INFO PromptManager] ReadValue
+[2023-03-21 02:04:20Z INFO Terminal] WRITE: Enter runner remove token: 
+[2023-03-21 02:04:20Z INFO Terminal] READ SECRET
+[2023-03-21 02:04:29Z INFO Terminal] Read value: '***'
+[2023-03-21 02:04:30Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (CA6B:77D8:10A3795:114B342:641910AD)
+[2023-03-21 02:04:30Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-03-21 02:04:30Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:30Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-03-21 02:04:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:30Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:30Z INFO RunnerServer] EstablishVssConnection
+[2023-03-21 02:04:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-03-21 02:04:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-03-21 02:04:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-03-21 02:04:31Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:31Z INFO ConfigurationStore] IsConfigured()
+[2023-03-21 02:04:31Z INFO ConfigurationStore] IsConfigured: True
+[2023-03-21 02:04:31Z INFO ConfigurationStore] HasCredentials()
+[2023-03-21 02:04:31Z INFO ConfigurationStore] stored True
+[2023-03-21 02:04:31Z INFO HostContext] Well known directory 'Bin': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\bin'
+[2023-03-21 02:04:31Z INFO HostContext] Well known directory 'Root': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner'
+[2023-03-21 02:04:31Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams'
+[2023-03-21 02:04:31Z INFO RSAEncryptedFileKeyManager] Deleting RSA key parameters file C:\Projects\Test\ClassLibraryMSBuild\actions-runner\.credentials_rsaparams
+[2023-03-21 02:04:31Z INFO Terminal] WRITE LINE: 
+[2023-03-21 02:04:31Z INFO Listener] Runner execution has finished with return code 0

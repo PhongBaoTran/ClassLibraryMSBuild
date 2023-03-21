@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 4,
+  "agentName": "MSBuild",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/eiuYFoagEi7SdrcBi184cJWAYGfh15XmQL12kZ3b9dnH13701s",
+  "gitHubUrl": "https://github.com/PhongBaoTran/ClassLibraryMSBuild",
+  "workFolder": "_work"
+}
