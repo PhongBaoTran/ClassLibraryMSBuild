@@ -15,7 +15,7 @@ jobs:
     runs-on: self-hosted
 
     env:
-          Solution_Name: \ClassLibraryMSBuild\ClassLibraryMSBuild.csproj
+          Solution_Name: ..\..\ClassLibraryMSBuild\ClassLibraryMSBuild.csproj
 
     steps:
     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
