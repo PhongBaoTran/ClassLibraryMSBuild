@@ -12,7 +12,7 @@ jobs:
           matrix:
             configuration: [Release]
 
-    runs-on: self-hosted
+    runs-on: [self-hosted, main]
 
     env:
           Solution_Name: ClassLibraryMSBuild/ClassLibraryMSBuild.csproj
