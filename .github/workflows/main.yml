@@ -8,14 +8,11 @@ on:
 
 jobs:
   build:
-    strategy:
-          matrix:
-            configuration: [Release]
 
     runs-on: self-hosted
 
     env:
-          Solution_Name: ClassLibraryMSBuild.sln
+          Solution_Name: ClassLibraryMSBuild/ClassLibraryMSBuild.csproj
 
     steps:
     - name: Checkout
@@ -29,4 +26,4 @@ jobs:
     - name: Restore the application
       run: msbuild $env:Solution_Name /t:Restore
     - name: Build app
-      run: msbuild $env:Solution_Name /p:Configuration=$env:Configuration
+      run: msbuild $env:Solution_Name /p:Configuration=Release
