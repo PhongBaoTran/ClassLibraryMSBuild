@@ -15,7 +15,7 @@ jobs:
     runs-on: self-hosted
 
     env:
-          Solution_Name: ../../ClassLibraryMSBuild/ClassLibraryMSBuild.csproj
+          Solution_Name: ClassLibraryMSBuild/ClassLibraryMSBuild.csproj
 
     steps:
     - name: Set up JDK 11
