@@ -18,6 +18,10 @@ jobs:
           Solution_Name: ..\..\ClassLibraryMSBuild\ClassLibraryMSBuild.csproj
 
     steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
