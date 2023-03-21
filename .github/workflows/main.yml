@@ -55,6 +55,6 @@ jobs:
         shell: powershell
       run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"PhongBaoTran_ClassLibraryMSBuild" /o:"phongbaotran" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet msbuild $env:Solution_Name /t:Restore
-          dotnet msbuild $env:Solution_Name /p:Configuration=Release
+          msbuild $env:Solution_Name /t:Restore
+          msbuild $env:Solution_Name /p:Configuration=Release
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
