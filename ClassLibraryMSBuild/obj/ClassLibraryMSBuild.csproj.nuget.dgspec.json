@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {}
+    "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {
+    "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
+        "projectUniqueName": "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
         "projectName": "ClassLibraryMSBuild",
-        "projectPath": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
+        "projectPath": "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
         "packagesPath": "C:\\Users\\Bao_Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\obj\\",
+        "outputPath": "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Projects\\Nuget Source": {},
+          "C:\\Projects\\Force24\\Package Source": {},
+          "C:\\Projects\\Force24\\system\\Code\\Objects\\obj\\Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
