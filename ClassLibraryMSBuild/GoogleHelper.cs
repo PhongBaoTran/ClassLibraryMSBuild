@@ -19,7 +19,6 @@ namespace ClassLibraryMSBuild
         public static string ClientSecret = "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";
         public static string DevToken = "lYWzWvFVX-IeZ0vtNcxmXw";
         public static string CusId = "3296179833";
-
         public static string RedirectUri = "http://localhost:4200";
         public static string OauthUri = "https://accounts.google.com/o/oauth2/auth?";
         public static string TokenUri = "https://accounts.google.com/o/oauth2/token";
