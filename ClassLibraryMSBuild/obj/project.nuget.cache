@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83kMbHTgD44vL/M4+9MFUWO0oBreA55HrWNx30Xqow4M+xi9xUGBTFSq31EKrTv7c6RD2xe1a8/IMAEhV7VEjQ==",
+  "dgSpecHash": "8/OOmrBQIjpDAg2EilP1fc2esheStU9TbWkwzkgv3UizlAmyWJBtNHcNEbzIYLw80XVTQ7+F7EjAQ8PAazyZbA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Test\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
+  "projectFilePath": "C:\\Temp\\ClassLibraryMSBuild\\ClassLibraryMSBuild\\ClassLibraryMSBuild.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bao_Tran\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
     "C:\\Users\\Bao_Tran\\.nuget\\packages\\google.ads.gax\\2.1.0\\google.ads.gax.2.1.0.nupkg.sha512",
